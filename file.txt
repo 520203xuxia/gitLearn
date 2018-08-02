@@ -1,2 +1,4 @@
 this is a try.
 i am develop b.
+
+this is master,i change the file

@@ -1,5 +1,2 @@
 this is a try.
 i am develop b.
-
-i am master,
-i make a change.
